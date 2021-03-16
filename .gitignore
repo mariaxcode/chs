@@ -1,7 +1,8 @@
 .DS_Store
 node_modules
 /dist
-
+.AppleDouble
+.LSOverride
 
 # local env files
 .env.local
